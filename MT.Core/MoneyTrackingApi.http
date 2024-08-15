@@ -1,0 +1,6 @@
+@MoneyTrackingApi_HostAddress = https://localhost:5001
+
+GET {{MoneyTrackingApi_HostAddress}}/Items/6
+Accept: application/json
+
+###
